@@ -60410,7 +60410,7 @@ A.ky.prototype={
 aj(){return new A.Fm()},
 a3f(a){return this.f.$1(a)}}
 A.Fm.prototype={
-V(a){var s,r,q,p,o,n,m=null,l=A.asF().$2$color$fontSize(m,36),k=A.asG().$2$color$fontSize(B.xD,50),j=this.a
+V(a){var s,r,q,p,o,n,m=null,l=A.asF().$2$color$fontSize(m,36),k=A.asG().$2$color$fontSize(B.xD,36),j=this.a
 if(j.w)s=B.xG
 else s=j.r?B.jl:B.j
 j=j.d
